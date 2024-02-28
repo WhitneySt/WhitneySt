@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Whitney Stevenson</h1>
-<h3 align="center">A frontend developer in training from Cartagena, Colombia</h3>
+<h3 align="center">Frontend developer from Cartagena, Colombia</h3>
 
 - 🌱 I’m currently learning **Frontend development with HTML, CSS and Javascript.**
 
